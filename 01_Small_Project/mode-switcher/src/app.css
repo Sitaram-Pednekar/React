@@ -1,0 +1,9 @@
+html.light,
+body.light{
+    background-color: #ffffff;
+}
+html.dark,
+body.dark{
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
